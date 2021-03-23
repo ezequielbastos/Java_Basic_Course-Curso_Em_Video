@@ -1,5 +1,3 @@
-# Java_Basic_Course-Curso_Em_Video
-***
 # Curso de JAVA Básico
  
 Neste curso eu aprendi de forma clara e descontraida o básico da linguagem java sem se aprofundar no conceito de orientação a objetos o que facilitou de mais na minha apredizagem inicial. 
